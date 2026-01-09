@@ -77,7 +77,7 @@ export default function RouteSAndRidesPage() {
                   <h4 className="text-2xl font-bold mb-4">Clentoy</h4>
                   <ul className="space-y-3 text-zinc-300">
                     <li>Color: Orange</li>
-                    <li>Terminal: Fusion Gas Station</li>
+                    <li>Terminal: Crossing Bayabas - Virgin Delos Reyes Street</li>
                     <li>Toril - Roxas via Bankerohan Quirino UM Bolton Claveria</li>
                     <li>Roxas - Toril via Boulevard SM Ecoland Matina Crossing Bangkal Ulas Puan Bago</li>
                   </ul>
